@@ -2,10 +2,16 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 1, "properties": { "Nom": "AirBnB Bristol", "Lieu": "4 Freeland Buildings, BS5 6LD, Bristol", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.558548, 51.472074 ] } }
+{ "type": "Feature", "id": 1, "properties": { "Nom": "AirBnB Bristol", "Lieu": "4 Freeland Buildings, BS5 6LD, Bristol", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.558548, 51.472074 ] } }
 ,
-{ "type": "Feature", "id": 2, "properties": { "Nom": "Clifton Bridge", "Lieu": "Clifton Bridge", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.627835, 51.454956 ] } }
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Clifton Suspension Bridge", "Lieu": "Suspension Bridge Road", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.627835, 51.454956 ] } }
 ,
-{ "type": "Feature", "id": 3, "properties": { "Nom": "Ashton Court Golf Course", "Lieu": "Ashton Court Golf Course", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.644068, 51.451115 ] } }
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Ashton Court Golf Course", "Lieu": "Ashton Court Golf Course", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.644068, 51.451115 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "Observatoire", "Lieu": "Suspension Bridge Road", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.626398, 51.456651 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "Zoo", "Lieu": "College Rd, Clifton, Bristol BS8 3HA", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.622095, 51.463332 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "Pipal Tree Restaurant", "Lieu": "28 Chelsea Rd, Bristol BS5 6AF", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.562888, 51.463202 ] } }
 ]
 }
