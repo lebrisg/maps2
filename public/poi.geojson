@@ -28,6 +28,10 @@
 ,
 { "type": "Feature", "id": 13, "properties": { "Nom": "St Nicholas Market", "Lieu": "The Corn Exchange, Corn St, Bristol BS1 1JQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.592296, 51.454184 ] } }
 ,
+{ "type": "Feature", "id": 14, "properties": { "Nom": "M Shed", "Lieu": "Princes Wharf, Wapping Rd, Bristol BS1 4RN", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598095, 51.447648 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Nom": "Tourist Information Centre", "Lieu": "E Shed, 1 Canon's Rd, Bristol BS1 5TX", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598131, 51.451941 ] } }
+,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Roman Baths", "Lieu": "Stall St, Bath BA1 1LZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.359748, 51.380962 ] } }
 ,
 { "type": "Feature", "id": 32, "properties": { "Nom": "Royal Crescent", "Lieu": "1 Royal Cres, Bath BA1 2LR", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367216, 51.386593 ] } }
@@ -35,5 +39,9 @@
 { "type": "Feature", "id": 33, "properties": { "Nom": "The Circus", "Lieu": "Bath BA1 2ET", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.364051, 51.385967 ] } }
 ,
 { "type": "Feature", "id": 34, "properties": { "Nom": "Queen Square", "Lieu": "273 Queen Square, Bath BA1 2HH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.363632, 51.38348 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "Nom": "Scallop Shell Restaurant", "Lieu": "22 Monmouth Pl, Bath BA1 2AY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.365751, 51.382954 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "Nom": "Tourist Information", "Lieu": "2 Terrace Walk, Bath BA1 1LN", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357962, 51.380865 ] } }
 ]
 }
