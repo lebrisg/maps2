@@ -132,7 +132,7 @@
 	    L.geoJson(data,{
 	      pointToLayer: function(feature,latlng){
 	        var marker = L.marker(latlng);
-	        marker.bindPopup(feature.properties.Nom + '<br/>' + feature.properties.Lieu  '<br/>' + feature.properties.Date);
+	        marker.bindPopup(feature.properties.Nom + '<br/>' + feature.properties.Lieu + '<br/>' + feature.properties.Date);
 	        return marker;
 	      }
 	     }).addTo(map);
