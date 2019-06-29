@@ -43,5 +43,13 @@
 { "type": "Feature", "id": 35, "properties": { "Nom": "Scallop Shell Restaurant", "Lieu": "22 Monmouth Pl, Bath BA1 2AY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.365751, 51.382954 ] } }
 ,
 { "type": "Feature", "id": 36, "properties": { "Nom": "Tourist Information", "Lieu": "2 Terrace Walk, Bath BA1 1LN", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357962, 51.380865 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "Nom": "Pulteney Bridge", "Lieu": "Bridge St, Bath BA2 4AT", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357908, 51.383044 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "Nom": "SouthGate Car Park", "Lieu": "Southgate St, Bath BA1 1AQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.359282, 51.379037 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "Nom": "Manvers St Car Park", "Lieu": "5A Manvers St, Bath BA1 1JQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.356632, 51.379757 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "Nom": "Charlotte St Car Park", "Lieu": "Charlotte St, Bath BA1 2NE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.366728, 51.384236 ] } }
 ]
 }
