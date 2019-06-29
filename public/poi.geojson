@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 1, "properties": { "Nom": "AirBnB Bristol", "Lieu": "4 Freeland Buildings, BS5 6LD, Bristol", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ 51.472074, -2.558548 ] } }
+{ "type": "Feature", "id": 1, "properties": { "Nom": "AirBnB Bristol", "Lieu": "4 Freeland Buildings, BS5 6LD, Bristol", "Metro": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.558548, 51.472074 ] } }
 ,
 { "type": "Feature", "id": 2, "properties": { "Nom": "Syndicat d'Initiative", "Lieu": "139 Tremont St", "Metro": "Park Street", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -71.0639634, 42.3554365 ] } }
 ]
