@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Century 21", "Lieu": "21 Dey St", "Metro": "Cortland Street Station", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.010408,40.710646 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "NYC Citystore", "Lieu": "1 Centre St", "Metro": "Chambers St", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.003536,40.713391 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Forbidden Planet", "Lieu": "832 Broadway", "Metro": "14th Street-Union Square", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.990742,40.733617 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "The Strand", "Lieu": "828 Broadway", "Metro": "14th Street-Union Square", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.990785,40.733239 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "Macy's", "Lieu": "151 W 34th St", "Metro": "34th Street-Penn Station", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.989213,40.750862 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "Century 21", "Lieu": "1972 Broadway", "Metro": "66th Street-Lincoln Center", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.981767,40.773948 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "Apple Store", "Lieu": "767 5th Ave", "Metro": "57 Street Station", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.972857,40.7638 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Midtown Comics Downtown", "Lieu": "64 Fulton St", "Metro": "Fulton Street", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.005226,40.708633 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Midtown Comics Times Square", "Lieu": "200 W 40th St", "Metro": "Times Square-42 St", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.988231,40.754755 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "Midtown Comics Grand Central", "Lieu": "459 Lexington Ave", "Metro": "Grand Central-42 Street", "Date": "30/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.974332,40.753385 ] } }
+]
+}

@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Nom": "Wall St/Pier 11", "Lieu": "Pier 11", "Metro": "Wall Street", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.005499,40.70244 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Nom": "Corlears Hook", "Lieu": "Pier 42", "Metro": "East Broadway", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.978071,40.710573 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Nom": "Stuyvesant Cove", "Lieu": "Stuyvesant Cove Ferry Station", "Metro": "1st Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.973511,40.732324 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Nom": "East 34th Street", "Lieu": "East 34th Street/Midtown", "Metro": "33rd St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.971006,40.743506 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Nom": "East 90th St", "Lieu": "East 90th Street Ferry Terminal", "Metro": "86th St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.942242,40.777267 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Nom": "Soundview", "Lieu": "Soundview Ferry Terminal", "Metro": "None", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.848923,40.804397 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "Astoria", "Lieu": "Astoria Ferry Landing", "Metro": "30th Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.935928,40.771889 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Roosevelt Island", "Lieu": "Roosevelt Island", "Metro": "None", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.95252,40.756807 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Long Island City", "Lieu": "Long Island City - Gantry Plaza", "Metro": "21st St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.957611,40.748358 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "Hunters Point South", "Lieu": "Hunters Point South/Long Island City", "Metro": "Long Island City", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.961323,40.741831 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "Greenpoint", "Lieu": "India Street/Greenpoint", "Metro": "Greenpoint Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.963652,40.731348 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Nom": "North Williamsburg", "Lieu": "North 6th Street/North Williamsburg", "Metro": "Bedford Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.964623,40.720819 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Nom": "South Williamsburg", "Lieu": "Schaefer Landing/South Williamsburg", "Metro": "Marcy Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.970325,40.708572 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Nom": "Dumbo/BBP Pier 1", "Lieu": "Dumbo/BBP Pier 1", "Metro": "High St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.995731,40.703574 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Nom": "Atlantic Ave/BBP Pier 6", "Lieu": "Brooklyn Bridge Park Pier 6/Atlantic Ave", "Metro": "Court St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.002007,40.692455 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Nom": "Red Hook/Atlantic Basin", "Lieu": "Red Hook/Atlantic Basin", "Metro": "Carroll St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.013289,40.68089 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Nom": "Sunset Park/BAT", "Lieu": "Sunset Park Ferry Terminal", "Metro": "59 St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.026533,40.646555 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Nom": "Bay Ridge", "Lieu": "Bay Ridge", "Metro": "Bay Ridge Ave", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.037691,40.639497 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Nom": "Rockaway", "Lieu": "Rockaway Ferry Landing", "Metro": "Beach 105th St", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -73.831172,40.584247 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Nom": "Staten Island Ferry", "Lieu": "Staten Island Ferry Whitehall Terminal", "Metro": "Whitehall St-South Ferry", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.013079,40.700943 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Nom": "Battery Maritime", "Lieu": "Battery Maritime Building", "Metro": "Whitehall St-South Ferry", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.011717,40.701073 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Nom": "Soissons Landing", "Lieu": "www.govisland.com", "Metro": "None", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.0153,40.693256 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Nom": "Yankee Pier", "Lieu": "Yankee Pier", "Metro": "None", "Date": "24/04/2019"}, "geometry": { "type": "Point", "coordinates": [ -74.016539,40.686626 ] } }
+]
+}
