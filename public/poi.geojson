@@ -18,10 +18,14 @@
 ,
 { "type": "Feature", "id": 8, "properties": { "Nom": "Millenium Car Park", "Lieu": "Explore Ln, Bristol BS1 5SZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.600477, 51.449293 ] } }
 ,
-{ "type": "Feature", "id": 9, "properties": { "Nom": "Centre ville", "Lieu": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.589104, 51.457711 ] } }
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Centre ville", "Lieu": "69 Broadmead, Bristol BS1 3DX", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.589104, 51.457711 ] } }
 ,
 { "type": "Feature", "id": 10, "properties": { "Nom": "We The Curious", "Lieu": "One Millenium Square, Anchor Rd, Bristol BS1 5DB", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.589104, 51.457711 ] } }
 ,
-{ "type": "Feature", "id": 11, "properties": { "Nom": "SS Great Britain", "Lieu": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.609221, 51.449193 ] } }
+{ "type": "Feature", "id": 11, "properties": { "Nom": "SS Great Britain", "Lieu": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.607558, 51.448591 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Nom": "Cathedrale de Bristol", "Lieu": "College Green, Bristol BS1 5TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.600557, 51.45169 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Nom": "St Nicholas Market", "Lieu": "The Corn Exchange, Corn St, Bristol BS1 1JQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.592296, 51.454184 ] } }
 ]
 }
