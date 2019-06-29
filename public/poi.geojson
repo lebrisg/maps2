@@ -51,5 +51,11 @@
 { "type": "Feature", "id": 39, "properties": { "Nom": "Manvers St Car Park", "Lieu": "5A Manvers St, Bath BA1 1JQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.356632, 51.379757 ] } }
 ,
 { "type": "Feature", "id": 40, "properties": { "Nom": "Charlotte St Car Park", "Lieu": "Charlotte St, Bath BA1 2NE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.366728, 51.384236 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "Nom": "Assembly Rooms", "Lieu": "Bennett St, Bath BA1 2QH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.362812, 51.386362 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
 ]
 }
