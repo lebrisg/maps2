@@ -1,5 +1,5 @@
 {
-  "name": "maps",
+  "name": "maps2",
   "version": "0.0.1",
   "description": "Mapping application",
   "main": "server.js",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/lebrisg/maps.git"
+    "url": "http://github.com/lebrisg/maps2.git"
   },
   "author": "",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/lebrisg/maps/issues"
+    "url": "http://github.com/lebrisg/maps2/issues"
   },
-  "homepage": "http://github.com/lebrisg/maps"
+  "homepage": "http://github.com/lebrisg/maps2"
 }
