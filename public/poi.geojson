@@ -13,5 +13,15 @@
 { "type": "Feature", "id": 5, "properties": { "Nom": "Zoo", "Lieu": "College Rd, Clifton, Bristol BS8 3HA", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.622095, 51.463332 ] } }
 ,
 { "type": "Feature", "id": 6, "properties": { "Nom": "Pipal Tree Restaurant", "Lieu": "28 Chelsea Rd, Bristol BS5 6AF", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.562888, 51.463202 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Nom": "The Mall", "Lieu": "Kessels Rd, Patchway, Bristol BS34 5DG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.29544, 51.5253 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Nom": "Millenium Car Park", "Lieu": "Explore Ln, Bristol BS1 5SZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.600477, 51.449293 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Nom": "Centre ville", "Lieu": "", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.589104, 51.457711 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Nom": "We The Curious", "Lieu": "One Millenium Square, Anchor Rd, Bristol BS1 5DB", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.589104, 51.457711 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Nom": "SS Great Britain", "Lieu": "Great Western Dockyard, Gas Ferry Rd, Bristol BS1 6TY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.609221, 51.449193 ] } }
 ]
 }
