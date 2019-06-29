@@ -38,7 +38,7 @@
           crossorigin=""></script>
 	<script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script> 
 	<script>
-	  var map = L.map('map').setView([51.451547, -2.590585], 14);
+	  var map = L.map('map').setView([51.454, -2.598], 14);
 	  var markerLayerGroup = L.layerGroup().addTo(map);
 	    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 18,
@@ -48,18 +48,18 @@
             L.geoJson(data).addTo(map);
           }); 
 	  L.easyButton('<strong>B</strong>', function(btn, map){
-            var boston = [42.355, -71.06];
-            map.setView(boston, 14);
+            var bristol = [51.454, -2.598];
+            map.setView(bristol, 14);
           }).addTo(map);
 
-	  L.easyButton('<strong>W</strong>', function(btn, map){
-            var washington = [38.89, -77.02];
-            map.setView(washington, 14);
+	  L.easyButton('<strong>A</strong>', function(btn, map){
+            var bath = [51.3815, -2.36];
+            map.setView(bath, 14);
           }).addTo(map);
 
-	  L.easyButton('<strong>N</strong>', function(btn, map){
-            var newyork = [40.75, -73.98];
-            map.setView(newyork, 13);
+	  L.easyButton('<strong>C</strong>', function(btn, map){
+            var cardiff = [51.481, -3.176];
+            map.setView(cardiff, 13);
           }).addTo(map);
 
 	  // load GeoJSON from an external file
