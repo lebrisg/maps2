@@ -40,6 +40,8 @@
 ,
 { "type": "Feature", "id": 19, "properties": { "Nom": "Three Brothers Burgers", "Lieu": "Welsh Back, Bristol BS1 4SB", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.592339, 51.452265 ] } }
 ,
+{ "type": "Feature", "id": 20, "properties": { "Nom": "Za Za Bazaar", "Lieu": "Harbourside, Canon's Rd, Bristol BS1 5UH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598465, 51.45055 ] } }
+,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Roman Baths", "Lieu": "Stall St, Bath BA1 1LZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.359748, 51.380962 ] } }
 ,
 { "type": "Feature", "id": 32, "properties": { "Nom": "Royal Crescent", "Lieu": "1 Royal Cres, Bath BA1 2LR", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367216, 51.386593 ] } }
