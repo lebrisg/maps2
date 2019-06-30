@@ -58,6 +58,8 @@
 ,
 { "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
 ,
+{ "type": "Feature", "id": 73, "properties": { "Nom": "Tourist Information/Story Museum", "Lieu": "The Old Library, The Hayes, Cardiff CF10 1BH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.177275, 51.480016 ] } }
+,
 { "type": "Feature", "id": 74, "properties": { "Nom": "Central Market", "Lieu": "49 St Mary St, Cardiff CF10 1AU", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.17845, 51.480167 ] } }
 ,
 { "type": "Feature", "id": 91, "properties": { "Nom": "Go Ape Margam/Accrobranche/goape.co.uk", "Lieu": "Margam Country Park South South Wales, Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.732305, 51.557983 ] } }
