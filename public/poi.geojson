@@ -74,6 +74,8 @@
 ,
 { "type": "Feature", "id": 45, "properties": { "Nom": "The Whole Bagel", "Lieu": "8 Upper Borough Walls, Bath BA1 1RG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.360172, 51.38276 ] } }
 ,
+{ "type": "Feature", "id": 46, "properties": { "Nom": "The Cornish Bakery", "Lieu": "7 Abbey Churchyard, Bath BA1 1LY", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.360103, 51.381367 ] } }
+,
 { "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
 ,
 { "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
