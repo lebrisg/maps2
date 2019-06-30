@@ -58,6 +58,8 @@
 ,
 { "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
 ,
+{ "type": "Feature", "id": 71, "properties": { "Nom": "Cardiff Castle", "Lieu": "Castle St, Cardiff CF10 3R", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.182087, 51.481486 ] } }
+,
 { "type": "Feature", "id": 72, "properties": { "Nom": "Techniquest", "Lieu": "Stuart St, Cardiff CF10 5BW", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.167732, 51.462677 ] } }
 ,
 { "type": "Feature", "id": 73, "properties": { "Nom": "Tourist Information/Story Museum", "Lieu": "The Old Library, The Hayes, Cardiff CF10 1BH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.177275, 51.480016 ] } }
