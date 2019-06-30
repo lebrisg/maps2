@@ -96,6 +96,8 @@
 ,
 { "type": "Feature", "id": 75, "properties": { "Nom": "The Plan", "Lieu": "28-29 Morgan Arcade, Cardiff CF10 1AF", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.177044, 51.478837 ] } }
 ,
+{ "type": "Feature", "id": 76, "properties": { "Nom": "Cafe Minuet", "Lieu": "42 Castle Arcade, Cardiff CF10 1BW", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.179244, 51.480925 ] } }
+,
 { "type": "Feature", "id": 91, "properties": { "Nom": "Go Ape Margam/Accrobranche/goape.co.uk", "Lieu": "Margam Country Park South South Wales, Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.732305, 51.557983 ] } }
 ,
 { "type": "Feature", "id": 92, "properties": { "Nom": "Margam Castle", "Lieu": "Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.724934, 51.562815 ] } }
