@@ -100,6 +100,8 @@
 ,
 { "type": "Feature", "id": 77, "properties": { "Nom": "Cafe Citta", "Lieu": "4 Church St, Cardiff CF10 1BG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.179297, 51.480501 ] } }
 ,
+{ "type": "Feature", "id": 78, "properties": { "Nom": "The Potted Pig", "Lieu": "27 High St, Cardiff CF10 1PU", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.180504, 51.480772 ] } }
+,
 { "type": "Feature", "id": 91, "properties": { "Nom": "Go Ape Margam/Accrobranche/goape.co.uk", "Lieu": "Margam Country Park South South Wales, Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.732305, 51.557983 ] } }
 ,
 { "type": "Feature", "id": 92, "properties": { "Nom": "Margam Castle", "Lieu": "Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.724934, 51.562815 ] } }
