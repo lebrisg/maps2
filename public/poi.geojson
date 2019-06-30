@@ -54,6 +54,8 @@
 ,
 { "type": "Feature", "id": 41, "properties": { "Nom": "Assembly Rooms", "Lieu": "Bennett St, Bath BA1 2QH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.362812, 51.386362 ] } }
 ,
+{ "type": "Feature", "id": 43, "properties": { "Nom": "Krowd Keepers", "Lieu": "The Ale House, 1 York St, Bath BA1 1NG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.358043, 51.380945 ] } }
+,
 { "type": "Feature", "id": 44, "properties": { "Nom": "Herschel Museum", "Lieu": "19 New King St, Bath BA1 2BL", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367125, 51.382562 ] } }
 ,
 { "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
