@@ -53,27 +53,9 @@
 { "type": "Feature", "id": 40, "properties": { "Nom": "Charlotte St Car Park", "Lieu": "Charlotte St, Bath BA1 2NE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.366728, 51.384236 ] } }
 ,
 { "type": "Feature", "id": 41, "properties": { "Nom": "Assembly Rooms", "Lieu": "Bennett St, Bath BA1 2QH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.362812, 51.386362 ] } }
-#,
-#{ "type": "Feature", "id": 42, "properties": { "Nom": "Abbey", "Lieu": "Bath BA1 1LT", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.358713, 51.381484 ] } }
-#,
-#{ "type": "Feature", "id": 43, "properties": { "Nom": "Krowd Keepers", "Lieu": "The Ale House, 1 York St, Bath BA1 1NG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.358043, 51.380945 ] } }
-#,
-#{ "type": "Feature", "id": 44, "properties": { "Nom": "Herschel Museum", "Lieu": "19 New King St, Bath BA1 2BL", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367125, 51.382562 ] } }
 ,
 { "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
 ,
 { "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
-#,
-#{ "type": "Feature", "id": 71, "properties": { "Nom": "Castle", "Lieu": "Castle St, Cardiff CF10 3RB", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.182087, 51.481486 ] } }
-#,
-#{ "type": "Feature", "id": 72, "properties": { "Nom": "Techniquest", "Lieu": "Stuart St, Cardiff CF10 5BW", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.167732, 51.462677 ] } }
-#,
-#{ "type": "Feature", "id": 73, "properties": { "Nom": "Tourist Information/Story Museum", "Lieu": "The Old Library, The Hayes, Cardiff CF10 1BH", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.177275, 51.480016 ] } }
-#,
-#{ "type": "Feature", "id": 74, "properties": { "Nom": "Central Market", "Lieu": "49 St Mary St, Cardiff CF10 1AU", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.17845, 51.480167 ] } }
-#,
-#{ "type": "Feature", "id": 91, "properties": { "Nom": "Go Ape Margam/Accrobranche/goape.co.uk", "Lieu": "Margam Country Park South South Wales, Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.732305, 51.557983 ] } }
-#,
-#{ "type": "Feature", "id": 92, "properties": { "Nom": "Margam Castle", "Lieu": "Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.724934, 51.562815 ] } }
 ]
 }
