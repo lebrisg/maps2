@@ -34,6 +34,8 @@
 ,
 { "type": "Feature", "id": 16, "properties": { "Nom": "Immotion VR", "Lieu": "69a, Glass Walk, Cabot Circus, Bristol BS1 3BQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.58558, 51.458543 ] } }
 ,
+{ "type": "Feature", "id": 17, "properties": { "Nom": "Smoke & Mirrors", "Lieu": "8 Denmark St, Bristol BS1 5DQ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.598969, 51.452941 ] } }
+,
 { "type": "Feature", "id": 31, "properties": { "Nom": "Roman Baths", "Lieu": "Stall St, Bath BA1 1LZ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.359748, 51.380962 ] } }
 ,
 { "type": "Feature", "id": 32, "properties": { "Nom": "Royal Crescent", "Lieu": "1 Royal Cres, Bath BA1 2LR", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.367216, 51.386593 ] } }
