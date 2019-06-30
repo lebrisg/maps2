@@ -57,5 +57,7 @@
 { "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
 ,
 { "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "Nom": "Margam Castle", "Lieu": "Port Talbot SA13 2TJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -3.724934, 51.562815 ] } }
 ]
 }
