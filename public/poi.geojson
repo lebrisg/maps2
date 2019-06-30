@@ -78,6 +78,8 @@
 ,
 { "type": "Feature", "id": 47, "properties": { "Nom": "The Green Bird Cafe", "Lieu": "Margaret's, 11 Margaret's Buildings, Bath BA1 2LP", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.365741, 51.38667 ] } }
 ,
+{ "type": "Feature", "id": 48, "properties": { "Nom": "Cafe Retro", "Lieu": "18 York St, Bath BA1 1NG", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -2.357925, 51.381072 ] } }
+,
 { "type": "Feature", "id": 61, "properties": { "Nom": "Cathedrale", "Lieu": "6 The Close, Salisbury SP1 2EJ", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.797938, 51.064904 ] } }
 ,
 { "type": "Feature", "id": 62, "properties": { "Nom": "Stonehenge", "Lieu": "Salisbury SP4 7DE", "Date": "03/07/2019"}, "geometry": { "type": "Point", "coordinates": [ -1.857349, 51.184448 ] } }
